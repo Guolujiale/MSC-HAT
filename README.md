@@ -6,9 +6,7 @@ Paper is manuscripting...
 <br>
 <br><img src="Construction of Bimodal Heterogeneous SubGraph.jpg" width="520">
 <br>
-<br><img src="image.png" width="520">
-<br>
-<br><img src="result.jpg" width="520">
+<br><img src="data.jpg" width="520">
 <br>
 <br><img src="coming_soon.png" width="520">
 
