@@ -1,0 +1,737 @@
+
+            in_channel: 48
+            nb_classes: 200
+            nb_nodes_list: [3813]
+            attn_drop: 0.2
+            ffd_drop: 0.2
+            
+re-sampleing train data...
+
+            in_channel: 2000
+            nb_classes: 200
+            nb_nodes_list: [3813]
+            attn_drop: 0.2
+            ffd_drop: 0.2
+            
+re-sampleing train data...
+
+            in_channel: 2000
+            nb_classes: 200
+            nb_nodes_list: [3813]
+            attn_drop: 0.2
+            ffd_drop: 0.2
+            
+re-sampleing train data...
+Epoch: 1, Loss: 0.6731, Accuracy: 0.7581
+New best training loss: 0.6731, Model saved: run/epoch_1_Loss_0.6731.pt
+Epoch: 2, Loss: 0.8360, Accuracy: 0.7792
+Epoch: 3, Loss: 2.8305, Accuracy: 0.2522
+Epoch: 4, Loss: 1.0579, Accuracy: 0.7227
+Epoch: 5, Loss: 0.6193, Accuracy: 0.7418
+New best training loss: 0.6193, Model saved: run/epoch_5_Loss_0.6193.pt
+Epoch: 6, Loss: 1.1325, Accuracy: 0.2844
+Epoch: 7, Loss: 0.7043, Accuracy: 0.4360
+Epoch: 8, Loss: 0.5603, Accuracy: 0.7793
+New best training loss: 0.5603, Model saved: run/epoch_8_Loss_0.5603.pt
+Epoch: 9, Loss: 0.5411, Accuracy: 0.7793
+New best training loss: 0.5411, Model saved: run/epoch_9_Loss_0.5411.pt
+Epoch: 10, Loss: 0.5457, Accuracy: 0.7793
+Epoch: 11, Loss: 0.5515, Accuracy: 0.7790
+Epoch: 12, Loss: 0.5445, Accuracy: 0.7793
+Epoch: 13, Loss: 0.5488, Accuracy: 0.7792
+Epoch: 14, Loss: 0.5334, Accuracy: 0.7780
+New best training loss: 0.5334, Model saved: run/epoch_14_Loss_0.5334.pt
+Epoch: 15, Loss: 0.5488, Accuracy: 0.7725
+Epoch: 16, Loss: 0.5648, Accuracy: 0.7793
+Epoch: 17, Loss: 0.5339, Accuracy: 0.7731
+Epoch: 18, Loss: 0.5685, Accuracy: 0.7308
+Epoch: 19, Loss: 0.5517, Accuracy: 0.7784
+Epoch: 20, Loss: 0.5485, Accuracy: 0.7784
+Epoch: 21, Loss: 0.5402, Accuracy: 0.7685
+Epoch: 22, Loss: 0.5282, Accuracy: 0.7778
+New best training loss: 0.5282, Model saved: run/epoch_22_Loss_0.5282.pt
+Epoch: 23, Loss: 0.5391, Accuracy: 0.7784
+Epoch: 24, Loss: 0.5358, Accuracy: 0.7790
+Epoch: 25, Loss: 0.5202, Accuracy: 0.7775
+New best training loss: 0.5202, Model saved: run/epoch_25_Loss_0.5202.pt
+Epoch: 26, Loss: 0.5291, Accuracy: 0.7739
+Epoch: 27, Loss: 0.5259, Accuracy: 0.7761
+Epoch: 28, Loss: 0.5234, Accuracy: 0.7790
+Epoch: 29, Loss: 0.5215, Accuracy: 0.7790
+Epoch: 30, Loss: 0.5190, Accuracy: 0.7792
+New best training loss: 0.5190, Model saved: run/epoch_30_Loss_0.5190.pt
+Epoch: 31, Loss: 0.5174, Accuracy: 0.7783
+New best training loss: 0.5174, Model saved: run/epoch_31_Loss_0.5174.pt
+Epoch: 32, Loss: 0.5206, Accuracy: 0.7783
+Epoch: 33, Loss: 0.5178, Accuracy: 0.7784
+Epoch: 34, Loss: 0.5157, Accuracy: 0.7789
+New best training loss: 0.5157, Model saved: run/epoch_34_Loss_0.5157.pt
+Epoch: 35, Loss: 0.5148, Accuracy: 0.7789
+New best training loss: 0.5148, Model saved: run/epoch_35_Loss_0.5148.pt
+Epoch: 36, Loss: 0.5142, Accuracy: 0.7793
+New best training loss: 0.5142, Model saved: run/epoch_36_Loss_0.5142.pt
+Epoch: 37, Loss: 0.5146, Accuracy: 0.7790
+Epoch: 38, Loss: 0.5148, Accuracy: 0.7793
+Epoch: 39, Loss: 0.5127, Accuracy: 0.7783
+New best training loss: 0.5127, Model saved: run/epoch_39_Loss_0.5127.pt
+Epoch: 40, Loss: 0.5112, Accuracy: 0.7778
+New best training loss: 0.5112, Model saved: run/epoch_40_Loss_0.5112.pt
+Epoch: 41, Loss: 0.5119, Accuracy: 0.7790
+Epoch: 42, Loss: 0.5110, Accuracy: 0.7781
+New best training loss: 0.5110, Model saved: run/epoch_42_Loss_0.5110.pt
+Epoch: 43, Loss: 0.5118, Accuracy: 0.7789
+Epoch: 44, Loss: 0.5118, Accuracy: 0.7784
+Epoch: 45, Loss: 0.5114, Accuracy: 0.7749
+Epoch: 46, Loss: 0.5097, Accuracy: 0.7780
+New best training loss: 0.5097, Model saved: run/epoch_46_Loss_0.5097.pt
+Epoch: 47, Loss: 0.5102, Accuracy: 0.7784
+Epoch: 48, Loss: 0.5095, Accuracy: 0.7783
+New best training loss: 0.5095, Model saved: run/epoch_48_Loss_0.5095.pt
+Epoch: 49, Loss: 0.5113, Accuracy: 0.7775
+Epoch: 50, Loss: 0.5093, Accuracy: 0.7776
+New best training loss: 0.5093, Model saved: run/epoch_50_Loss_0.5093.pt
+Epoch: 51, Loss: 0.5098, Accuracy: 0.7772
+Epoch: 52, Loss: 0.5100, Accuracy: 0.7773
+Epoch: 53, Loss: 0.5098, Accuracy: 0.7773
+Epoch: 54, Loss: 0.5107, Accuracy: 0.7780
+Epoch: 55, Loss: 0.5096, Accuracy: 0.7772
+Epoch: 56, Loss: 0.5091, Accuracy: 0.7772
+New best training loss: 0.5091, Model saved: run/epoch_56_Loss_0.5091.pt
+Epoch: 57, Loss: 0.5092, Accuracy: 0.7770
+Epoch: 58, Loss: 0.5094, Accuracy: 0.7776
+Epoch: 59, Loss: 0.5095, Accuracy: 0.7770
+Epoch: 60, Loss: 0.5086, Accuracy: 0.7761
+New best training loss: 0.5086, Model saved: run/epoch_60_Loss_0.5086.pt
+Epoch: 61, Loss: 0.5081, Accuracy: 0.7766
+New best training loss: 0.5081, Model saved: run/epoch_61_Loss_0.5081.pt
+Epoch: 62, Loss: 0.5080, Accuracy: 0.7760
+New best training loss: 0.5080, Model saved: run/epoch_62_Loss_0.5080.pt
+Epoch: 63, Loss: 0.5078, Accuracy: 0.7772
+New best training loss: 0.5078, Model saved: run/epoch_63_Loss_0.5078.pt
+Epoch: 64, Loss: 0.5069, Accuracy: 0.7772
+New best training loss: 0.5069, Model saved: run/epoch_64_Loss_0.5069.pt
+Epoch: 65, Loss: 0.5075, Accuracy: 0.7769
+Epoch: 66, Loss: 0.5051, Accuracy: 0.7767
+New best training loss: 0.5051, Model saved: run/epoch_66_Loss_0.5051.pt
+Epoch: 67, Loss: 0.5062, Accuracy: 0.7760
+Epoch: 68, Loss: 0.5019, Accuracy: 0.7760
+New best training loss: 0.5019, Model saved: run/epoch_68_Loss_0.5019.pt
+Epoch: 69, Loss: 0.5027, Accuracy: 0.7748
+Epoch: 70, Loss: 0.4994, Accuracy: 0.7752
+New best training loss: 0.4994, Model saved: run/epoch_70_Loss_0.4994.pt
+Epoch: 71, Loss: 0.4986, Accuracy: 0.7748
+New best training loss: 0.4986, Model saved: run/epoch_71_Loss_0.4986.pt
+Epoch: 72, Loss: 0.4986, Accuracy: 0.7743
+Epoch: 73, Loss: 0.4957, Accuracy: 0.7749
+New best training loss: 0.4957, Model saved: run/epoch_73_Loss_0.4957.pt
+Epoch: 74, Loss: 0.4944, Accuracy: 0.7703
+New best training loss: 0.4944, Model saved: run/epoch_74_Loss_0.4944.pt
+Epoch: 75, Loss: 0.4894, Accuracy: 0.7700
+New best training loss: 0.4894, Model saved: run/epoch_75_Loss_0.4894.pt
+Epoch: 76, Loss: 0.4870, Accuracy: 0.7718
+New best training loss: 0.4870, Model saved: run/epoch_76_Loss_0.4870.pt
+Epoch: 77, Loss: 0.4835, Accuracy: 0.7667
+New best training loss: 0.4835, Model saved: run/epoch_77_Loss_0.4835.pt
+Epoch: 78, Loss: 0.4825, Accuracy: 0.7671
+New best training loss: 0.4825, Model saved: run/epoch_78_Loss_0.4825.pt
+Epoch: 79, Loss: 0.4785, Accuracy: 0.7516
+New best training loss: 0.4785, Model saved: run/epoch_79_Loss_0.4785.pt
+Epoch: 80, Loss: 0.4767, Accuracy: 0.7662
+New best training loss: 0.4767, Model saved: run/epoch_80_Loss_0.4767.pt
+Epoch: 81, Loss: 0.4764, Accuracy: 0.7317
+New best training loss: 0.4764, Model saved: run/epoch_81_Loss_0.4764.pt
+Epoch: 82, Loss: 0.4927, Accuracy: 0.7715
+Epoch: 83, Loss: 0.5122, Accuracy: 0.6675
+Epoch: 84, Loss: 0.5619, Accuracy: 0.7775
+Epoch: 85, Loss: 0.4613, Accuracy: 0.7490
+New best training loss: 0.4613, Model saved: run/epoch_85_Loss_0.4613.pt
+Epoch: 86, Loss: 0.5519, Accuracy: 0.6152
+Epoch: 87, Loss: 0.5097, Accuracy: 0.7767
+Epoch: 88, Loss: 0.5222, Accuracy: 0.7789
+Epoch: 89, Loss: 0.4713, Accuracy: 0.7694
+Epoch: 90, Loss: 0.5074, Accuracy: 0.7304
+Epoch: 91, Loss: 0.5070, Accuracy: 0.7308
+Epoch: 92, Loss: 0.4851, Accuracy: 0.7578
+Epoch: 93, Loss: 0.4823, Accuracy: 0.7733
+Epoch: 94, Loss: 0.4830, Accuracy: 0.7781
+Epoch: 95, Loss: 0.4779, Accuracy: 0.7766
+Epoch: 96, Loss: 0.4722, Accuracy: 0.7697
+Epoch: 97, Loss: 0.4701, Accuracy: 0.7563
+Epoch: 98, Loss: 0.4646, Accuracy: 0.7439
+Epoch: 99, Loss: 0.4541, Accuracy: 0.7447
+New best training loss: 0.4541, Model saved: run/epoch_99_Loss_0.4541.pt
+Epoch: 100, Loss: 0.4544, Accuracy: 0.7513
+Epoch: 101, Loss: 0.4495, Accuracy: 0.7575
+New best training loss: 0.4495, Model saved: run/epoch_101_Loss_0.4495.pt
+Epoch: 102, Loss: 0.4353, Accuracy: 0.7384
+New best training loss: 0.4353, Model saved: run/epoch_102_Loss_0.4353.pt
+Epoch: 103, Loss: 0.4428, Accuracy: 0.6891
+Epoch: 104, Loss: 0.4339, Accuracy: 0.7096
+New best training loss: 0.4339, Model saved: run/epoch_104_Loss_0.4339.pt
+Epoch: 105, Loss: 0.4312, Accuracy: 0.7373
+New best training loss: 0.4312, Model saved: run/epoch_105_Loss_0.4312.pt
+Epoch: 106, Loss: 0.4305, Accuracy: 0.7236
+New best training loss: 0.4305, Model saved: run/epoch_106_Loss_0.4305.pt
+Epoch: 107, Loss: 0.4329, Accuracy: 0.6959
+Epoch: 108, Loss: 0.4222, Accuracy: 0.7238
+New best training loss: 0.4222, Model saved: run/epoch_108_Loss_0.4222.pt
+Epoch: 109, Loss: 0.4239, Accuracy: 0.7185
+Epoch: 110, Loss: 0.4204, Accuracy: 0.6968
+New best training loss: 0.4204, Model saved: run/epoch_110_Loss_0.4204.pt
+Epoch: 111, Loss: 0.4192, Accuracy: 0.7045
+New best training loss: 0.4192, Model saved: run/epoch_111_Loss_0.4192.pt
+Epoch: 112, Loss: 0.4177, Accuracy: 0.7335
+New best training loss: 0.4177, Model saved: run/epoch_112_Loss_0.4177.pt
+Epoch: 113, Loss: 0.4122, Accuracy: 0.7266
+New best training loss: 0.4122, Model saved: run/epoch_113_Loss_0.4122.pt
+Epoch: 114, Loss: 0.4130, Accuracy: 0.7128
+Epoch: 115, Loss: 0.4086, Accuracy: 0.7185
+New best training loss: 0.4086, Model saved: run/epoch_115_Loss_0.4086.pt
+Epoch: 116, Loss: 0.4078, Accuracy: 0.7239
+New best training loss: 0.4078, Model saved: run/epoch_116_Loss_0.4078.pt
+Epoch: 117, Loss: 0.4046, Accuracy: 0.7217
+New best training loss: 0.4046, Model saved: run/epoch_117_Loss_0.4046.pt
+Epoch: 118, Loss: 0.4027, Accuracy: 0.7221
+New best training loss: 0.4027, Model saved: run/epoch_118_Loss_0.4027.pt
+Epoch: 119, Loss: 0.4021, Accuracy: 0.7170
+New best training loss: 0.4021, Model saved: run/epoch_119_Loss_0.4021.pt
+Epoch: 120, Loss: 0.3980, Accuracy: 0.7191
+New best training loss: 0.3980, Model saved: run/epoch_120_Loss_0.3980.pt
+Epoch: 121, Loss: 0.4005, Accuracy: 0.7099
+Epoch: 122, Loss: 0.3985, Accuracy: 0.7138
+Epoch: 123, Loss: 0.3967, Accuracy: 0.7093
+New best training loss: 0.3967, Model saved: run/epoch_123_Loss_0.3967.pt
+Epoch: 124, Loss: 0.3955, Accuracy: 0.7092
+New best training loss: 0.3955, Model saved: run/epoch_124_Loss_0.3955.pt
+Epoch: 125, Loss: 0.3965, Accuracy: 0.7174
+Epoch: 126, Loss: 0.3935, Accuracy: 0.7152
+New best training loss: 0.3935, Model saved: run/epoch_126_Loss_0.3935.pt
+Epoch: 127, Loss: 0.3950, Accuracy: 0.7015
+Epoch: 128, Loss: 0.3934, Accuracy: 0.7043
+New best training loss: 0.3934, Model saved: run/epoch_128_Loss_0.3934.pt
+Epoch: 129, Loss: 0.3923, Accuracy: 0.7101
+New best training loss: 0.3923, Model saved: run/epoch_129_Loss_0.3923.pt
+Epoch: 130, Loss: 0.3909, Accuracy: 0.7099
+New best training loss: 0.3909, Model saved: run/epoch_130_Loss_0.3909.pt
+Epoch: 131, Loss: 0.3914, Accuracy: 0.7084
+Epoch: 132, Loss: 0.3901, Accuracy: 0.7084
+New best training loss: 0.3901, Model saved: run/epoch_132_Loss_0.3901.pt
+Epoch: 133, Loss: 0.3900, Accuracy: 0.7071
+New best training loss: 0.3900, Model saved: run/epoch_133_Loss_0.3900.pt
+Epoch: 134, Loss: 0.3883, Accuracy: 0.6995
+New best training loss: 0.3883, Model saved: run/epoch_134_Loss_0.3883.pt
+Epoch: 135, Loss: 0.3886, Accuracy: 0.7141
+Epoch: 136, Loss: 0.3880, Accuracy: 0.7110
+New best training loss: 0.3880, Model saved: run/epoch_136_Loss_0.3880.pt
+Epoch: 137, Loss: 0.3875, Accuracy: 0.7098
+New best training loss: 0.3875, Model saved: run/epoch_137_Loss_0.3875.pt
+Epoch: 138, Loss: 0.3853, Accuracy: 0.7114
+New best training loss: 0.3853, Model saved: run/epoch_138_Loss_0.3853.pt
+Epoch: 139, Loss: 0.3882, Accuracy: 0.7048
+Epoch: 140, Loss: 0.3884, Accuracy: 0.7030
+Epoch: 141, Loss: 0.3862, Accuracy: 0.7090
+Epoch: 142, Loss: 0.3856, Accuracy: 0.7155
+Epoch: 143, Loss: 0.3857, Accuracy: 0.7116
+Epoch: 144, Loss: 0.3853, Accuracy: 0.7119
+New best training loss: 0.3853, Model saved: run/epoch_144_Loss_0.3853.pt
+Epoch: 145, Loss: 0.3862, Accuracy: 0.7033
+Epoch: 146, Loss: 0.3860, Accuracy: 0.7089
+Epoch: 147, Loss: 0.3850, Accuracy: 0.7018
+New best training loss: 0.3850, Model saved: run/epoch_147_Loss_0.3850.pt
+Epoch: 148, Loss: 0.3848, Accuracy: 0.7052
+New best training loss: 0.3848, Model saved: run/epoch_148_Loss_0.3848.pt
+Epoch: 149, Loss: 0.3842, Accuracy: 0.7051
+New best training loss: 0.3842, Model saved: run/epoch_149_Loss_0.3842.pt
+Epoch: 150, Loss: 0.3841, Accuracy: 0.7049
+New best training loss: 0.3841, Model saved: run/epoch_150_Loss_0.3841.pt
+Epoch: 151, Loss: 0.3841, Accuracy: 0.7134
+New best training loss: 0.3841, Model saved: run/epoch_151_Loss_0.3841.pt
+Epoch: 152, Loss: 0.3852, Accuracy: 0.7051
+Epoch: 153, Loss: 0.3876, Accuracy: 0.7063
+Epoch: 154, Loss: 0.3865, Accuracy: 0.7068
+Epoch: 155, Loss: 0.3852, Accuracy: 0.7113
+Epoch: 156, Loss: 0.3845, Accuracy: 0.7132
+Epoch: 157, Loss: 0.3818, Accuracy: 0.7150
+New best training loss: 0.3818, Model saved: run/epoch_157_Loss_0.3818.pt
+Epoch: 158, Loss: 0.3863, Accuracy: 0.7019
+Epoch: 159, Loss: 0.3839, Accuracy: 0.7080
+Epoch: 160, Loss: 0.3857, Accuracy: 0.7018
+Epoch: 161, Loss: 0.3828, Accuracy: 0.7092
+Epoch: 162, Loss: 0.3845, Accuracy: 0.7104
+Epoch: 163, Loss: 0.3829, Accuracy: 0.7043
+Epoch: 164, Loss: 0.3838, Accuracy: 0.7077
+Epoch: 165, Loss: 0.3835, Accuracy: 0.6998
+Epoch: 166, Loss: 0.3839, Accuracy: 0.7037
+Epoch: 167, Loss: 0.3826, Accuracy: 0.7069
+Epoch: 168, Loss: 0.3834, Accuracy: 0.7138
+Epoch: 169, Loss: 0.3825, Accuracy: 0.7063
+Epoch: 170, Loss: 0.3818, Accuracy: 0.6982
+New best training loss: 0.3818, Model saved: run/epoch_170_Loss_0.3818.pt
+Epoch: 171, Loss: 0.3848, Accuracy: 0.6976
+Epoch: 172, Loss: 0.3836, Accuracy: 0.7128
+Epoch: 173, Loss: 0.3813, Accuracy: 0.7095
+New best training loss: 0.3813, Model saved: run/epoch_173_Loss_0.3813.pt
+Epoch: 174, Loss: 0.3859, Accuracy: 0.6934
+Epoch: 175, Loss: 0.3824, Accuracy: 0.7132
+Epoch: 176, Loss: 0.3809, Accuracy: 0.7153
+New best training loss: 0.3809, Model saved: run/epoch_176_Loss_0.3809.pt
+Epoch: 177, Loss: 0.3851, Accuracy: 0.6789
+Epoch: 178, Loss: 0.3830, Accuracy: 0.7128
+Epoch: 179, Loss: 0.3852, Accuracy: 0.7301
+Epoch: 180, Loss: 0.4017, Accuracy: 0.6509
+Epoch: 181, Loss: 0.4045, Accuracy: 0.7412
+Epoch: 182, Loss: 0.3828, Accuracy: 0.7001
+Epoch: 183, Loss: 0.3977, Accuracy: 0.6605
+Epoch: 184, Loss: 0.4221, Accuracy: 0.7513
+Epoch: 185, Loss: 0.3830, Accuracy: 0.7126
+Epoch: 186, Loss: 0.4254, Accuracy: 0.6366
+Epoch: 187, Loss: 0.4136, Accuracy: 0.7557
+Epoch: 188, Loss: 0.4035, Accuracy: 0.7492
+Epoch: 189, Loss: 0.4142, Accuracy: 0.6562
+Epoch: 190, Loss: 0.3923, Accuracy: 0.6986
+Epoch: 191, Loss: 0.4062, Accuracy: 0.7554
+Epoch: 192, Loss: 0.3906, Accuracy: 0.7439
+Epoch: 193, Loss: 0.4047, Accuracy: 0.6687
+Epoch: 194, Loss: 0.3868, Accuracy: 0.7034
+Epoch: 195, Loss: 0.3950, Accuracy: 0.7414
+Epoch: 196, Loss: 0.3831, Accuracy: 0.7244
+Epoch: 197, Loss: 0.3938, Accuracy: 0.6661
+Epoch: 198, Loss: 0.3780, Accuracy: 0.7102
+New best training loss: 0.3780, Model saved: run/epoch_198_Loss_0.3780.pt
+Epoch: 199, Loss: 0.3903, Accuracy: 0.7326
+Epoch: 200, Loss: 0.3872, Accuracy: 0.6794
+Epoch: 201, Loss: 0.3790, Accuracy: 0.6935
+Epoch: 202, Loss: 0.3817, Accuracy: 0.7194
+Epoch: 203, Loss: 0.3777, Accuracy: 0.6918
+New best training loss: 0.3777, Model saved: run/epoch_203_Loss_0.3777.pt
+Epoch: 204, Loss: 0.3761, Accuracy: 0.6970
+New best training loss: 0.3761, Model saved: run/epoch_204_Loss_0.3761.pt
+Epoch: 205, Loss: 0.3826, Accuracy: 0.7180
+Epoch: 206, Loss: 0.3756, Accuracy: 0.7021
+New best training loss: 0.3756, Model saved: run/epoch_206_Loss_0.3756.pt
+Epoch: 207, Loss: 0.3780, Accuracy: 0.6908
+Epoch: 208, Loss: 0.3737, Accuracy: 0.7090
+New best training loss: 0.3737, Model saved: run/epoch_208_Loss_0.3737.pt
+Epoch: 209, Loss: 0.3775, Accuracy: 0.7147
+Epoch: 210, Loss: 0.3740, Accuracy: 0.6938
+Epoch: 211, Loss: 0.3738, Accuracy: 0.6952
+Epoch: 212, Loss: 0.3736, Accuracy: 0.7156
+New best training loss: 0.3736, Model saved: run/epoch_212_Loss_0.3736.pt
+Epoch: 213, Loss: 0.3732, Accuracy: 0.6958
+New best training loss: 0.3732, Model saved: run/epoch_213_Loss_0.3732.pt
+Epoch: 214, Loss: 0.3690, Accuracy: 0.6872
+New best training loss: 0.3690, Model saved: run/epoch_214_Loss_0.3690.pt
+Epoch: 215, Loss: 0.3725, Accuracy: 0.7129
+Epoch: 216, Loss: 0.3696, Accuracy: 0.7003
+Epoch: 217, Loss: 0.3728, Accuracy: 0.6809
+Epoch: 218, Loss: 0.3726, Accuracy: 0.7090
+Epoch: 219, Loss: 0.3700, Accuracy: 0.7102
+Epoch: 220, Loss: 0.3724, Accuracy: 0.6861
+Epoch: 221, Loss: 0.3703, Accuracy: 0.6946
+Epoch: 222, Loss: 0.3710, Accuracy: 0.7186
+Epoch: 223, Loss: 0.3698, Accuracy: 0.7036
+Epoch: 224, Loss: 0.3706, Accuracy: 0.6896
+Epoch: 225, Loss: 0.3671, Accuracy: 0.7022
+New best training loss: 0.3671, Model saved: run/epoch_225_Loss_0.3671.pt
+Epoch: 226, Loss: 0.3689, Accuracy: 0.7098
+Epoch: 227, Loss: 0.3671, Accuracy: 0.7074
+New best training loss: 0.3671, Model saved: run/epoch_227_Loss_0.3671.pt
+Epoch: 228, Loss: 0.3687, Accuracy: 0.6914
+Epoch: 229, Loss: 0.3695, Accuracy: 0.7055
+Epoch: 230, Loss: 0.3666, Accuracy: 0.7028
+New best training loss: 0.3666, Model saved: run/epoch_230_Loss_0.3666.pt
+Epoch: 231, Loss: 0.3695, Accuracy: 0.7080
+Epoch: 232, Loss: 0.3669, Accuracy: 0.7015
+Epoch: 233, Loss: 0.3674, Accuracy: 0.6956
+Epoch: 234, Loss: 0.3670, Accuracy: 0.6929
+Epoch: 235, Loss: 0.3659, Accuracy: 0.6974
+New best training loss: 0.3659, Model saved: run/epoch_235_Loss_0.3659.pt
+Epoch: 236, Loss: 0.3667, Accuracy: 0.7110
+Epoch: 237, Loss: 0.3660, Accuracy: 0.7080
+Epoch: 238, Loss: 0.3652, Accuracy: 0.6976
+New best training loss: 0.3652, Model saved: run/epoch_238_Loss_0.3652.pt
+Epoch: 239, Loss: 0.3649, Accuracy: 0.6979
+New best training loss: 0.3649, Model saved: run/epoch_239_Loss_0.3649.pt
+Epoch: 240, Loss: 0.3665, Accuracy: 0.6932
+Epoch: 241, Loss: 0.3643, Accuracy: 0.6968
+New best training loss: 0.3643, Model saved: run/epoch_241_Loss_0.3643.pt
+Epoch: 242, Loss: 0.3647, Accuracy: 0.7009
+Epoch: 243, Loss: 0.3639, Accuracy: 0.7025
+New best training loss: 0.3639, Model saved: run/epoch_243_Loss_0.3639.pt
+Epoch: 244, Loss: 0.3632, Accuracy: 0.7004
+New best training loss: 0.3632, Model saved: run/epoch_244_Loss_0.3632.pt
+Epoch: 245, Loss: 0.3633, Accuracy: 0.7039
+Epoch: 246, Loss: 0.3644, Accuracy: 0.7042
+Epoch: 247, Loss: 0.3640, Accuracy: 0.6983
+Epoch: 248, Loss: 0.3643, Accuracy: 0.7024
+Epoch: 249, Loss: 0.3647, Accuracy: 0.7057
+Epoch: 250, Loss: 0.3654, Accuracy: 0.7042
+Epoch: 251, Loss: 0.3637, Accuracy: 0.6964
+Epoch: 252, Loss: 0.3654, Accuracy: 0.7034
+Epoch: 253, Loss: 0.3643, Accuracy: 0.7024
+Epoch: 254, Loss: 0.3646, Accuracy: 0.6968
+Epoch: 255, Loss: 0.3649, Accuracy: 0.6973
+Epoch: 256, Loss: 0.3647, Accuracy: 0.6929
+Epoch: 257, Loss: 0.3645, Accuracy: 0.6946
+Epoch: 258, Loss: 0.3652, Accuracy: 0.6998
+Epoch: 259, Loss: 0.3642, Accuracy: 0.7071
+Epoch: 260, Loss: 0.3643, Accuracy: 0.7043
+Epoch: 261, Loss: 0.3634, Accuracy: 0.7012
+Epoch: 262, Loss: 0.3651, Accuracy: 0.7061
+Epoch: 263, Loss: 0.3635, Accuracy: 0.6959
+Epoch: 264, Loss: 0.3641, Accuracy: 0.6953
+Epoch: 265, Loss: 0.3634, Accuracy: 0.7012
+Epoch: 266, Loss: 0.3641, Accuracy: 0.7004
+Epoch: 267, Loss: 0.3638, Accuracy: 0.6943
+Epoch: 268, Loss: 0.3632, Accuracy: 0.6985
+Epoch: 269, Loss: 0.3629, Accuracy: 0.7004
+New best training loss: 0.3629, Model saved: run/epoch_269_Loss_0.3629.pt
+Epoch: 270, Loss: 0.3651, Accuracy: 0.7042
+Epoch: 271, Loss: 0.3634, Accuracy: 0.6967
+Epoch: 272, Loss: 0.3633, Accuracy: 0.6961
+Epoch: 273, Loss: 0.3637, Accuracy: 0.7033
+Epoch: 274, Loss: 0.3644, Accuracy: 0.7058
+Epoch: 275, Loss: 0.3650, Accuracy: 0.6937
+Epoch: 276, Loss: 0.3634, Accuracy: 0.7055
+Epoch: 277, Loss: 0.3649, Accuracy: 0.7063
+Epoch: 278, Loss: 0.3659, Accuracy: 0.6920
+Epoch: 279, Loss: 0.3638, Accuracy: 0.6971
+Epoch: 280, Loss: 0.3633, Accuracy: 0.7061
+Epoch: 281, Loss: 0.3649, Accuracy: 0.6905
+Epoch: 282, Loss: 0.3640, Accuracy: 0.7055
+Epoch: 283, Loss: 0.3641, Accuracy: 0.7040
+Epoch: 284, Loss: 0.3648, Accuracy: 0.6946
+Epoch: 285, Loss: 0.3646, Accuracy: 0.7016
+Epoch: 286, Loss: 0.3652, Accuracy: 0.7036
+Epoch: 287, Loss: 0.3656, Accuracy: 0.6902
+Epoch: 288, Loss: 0.3651, Accuracy: 0.7018
+Epoch: 289, Loss: 0.3645, Accuracy: 0.7028
+Epoch: 290, Loss: 0.3663, Accuracy: 0.6938
+Epoch: 291, Loss: 0.3678, Accuracy: 0.7025
+Epoch: 292, Loss: 0.3665, Accuracy: 0.7116
+Epoch: 293, Loss: 0.3709, Accuracy: 0.6768
+Epoch: 294, Loss: 0.3910, Accuracy: 0.7363
+Epoch: 295, Loss: 0.4155, Accuracy: 0.6178
+Epoch: 296, Loss: 0.4654, Accuracy: 0.7567
+Epoch: 297, Loss: 0.3745, Accuracy: 0.7108
+Epoch: 298, Loss: 0.4606, Accuracy: 0.6157
+Epoch: 299, Loss: 0.4233, Accuracy: 0.7250
+Epoch: 300, Loss: 0.4571, Accuracy: 0.7716
+re-sampleing train data...
+Epoch: 301, Loss: 0.6089, Accuracy: 0.7591
+Epoch: 302, Loss: 0.6528, Accuracy: 0.6068
+Epoch: 303, Loss: 0.6121, Accuracy: 0.6740
+Epoch: 304, Loss: 0.5524, Accuracy: 0.7651
+Epoch: 305, Loss: 0.5374, Accuracy: 0.7679
+Epoch: 306, Loss: 0.5414, Accuracy: 0.7679
+Epoch: 307, Loss: 0.5401, Accuracy: 0.7679
+Epoch: 308, Loss: 0.5379, Accuracy: 0.7679
+Epoch: 309, Loss: 0.5428, Accuracy: 0.7679
+Epoch: 310, Loss: 0.5417, Accuracy: 0.7679
+Epoch: 311, Loss: 0.5383, Accuracy: 0.7679
+Epoch: 312, Loss: 0.5400, Accuracy: 0.7679
+Epoch: 313, Loss: 0.5383, Accuracy: 0.7679
+Epoch: 314, Loss: 0.5374, Accuracy: 0.7679
+Epoch: 315, Loss: 0.5390, Accuracy: 0.7679
+Epoch: 316, Loss: 0.5359, Accuracy: 0.7679
+Epoch: 317, Loss: 0.5361, Accuracy: 0.7679
+Epoch: 318, Loss: 0.5368, Accuracy: 0.7679
+Epoch: 319, Loss: 0.5354, Accuracy: 0.7679
+Epoch: 320, Loss: 0.5339, Accuracy: 0.7679
+Epoch: 321, Loss: 0.5341, Accuracy: 0.7679
+Epoch: 322, Loss: 0.5335, Accuracy: 0.7679
+Epoch: 323, Loss: 0.5321, Accuracy: 0.7679
+Epoch: 324, Loss: 0.5311, Accuracy: 0.7679
+Epoch: 325, Loss: 0.5306, Accuracy: 0.7679
+Epoch: 326, Loss: 0.5298, Accuracy: 0.7679
+Epoch: 327, Loss: 0.5290, Accuracy: 0.7679
+Epoch: 328, Loss: 0.5282, Accuracy: 0.7679
+Epoch: 329, Loss: 0.5272, Accuracy: 0.7679
+Epoch: 330, Loss: 0.5264, Accuracy: 0.7679
+Epoch: 331, Loss: 0.5258, Accuracy: 0.7679
+Epoch: 332, Loss: 0.5237, Accuracy: 0.7679
+Epoch: 333, Loss: 0.5250, Accuracy: 0.7676
+Epoch: 334, Loss: 0.5230, Accuracy: 0.7677
+Epoch: 335, Loss: 0.5216, Accuracy: 0.7679
+Epoch: 336, Loss: 0.5222, Accuracy: 0.7679
+Epoch: 337, Loss: 0.5202, Accuracy: 0.7676
+Epoch: 338, Loss: 0.5198, Accuracy: 0.7676
+Epoch: 339, Loss: 0.5192, Accuracy: 0.7670
+Epoch: 340, Loss: 0.5173, Accuracy: 0.7670
+Epoch: 341, Loss: 0.5167, Accuracy: 0.7676
+Epoch: 342, Loss: 0.5185, Accuracy: 0.7676
+Epoch: 343, Loss: 0.5177, Accuracy: 0.7671
+Epoch: 344, Loss: 0.5156, Accuracy: 0.7674
+Epoch: 345, Loss: 0.5155, Accuracy: 0.7676
+Epoch: 346, Loss: 0.5161, Accuracy: 0.7668
+Epoch: 347, Loss: 0.5145, Accuracy: 0.7671
+Epoch: 348, Loss: 0.5130, Accuracy: 0.7670
+Epoch: 349, Loss: 0.5153, Accuracy: 0.7667
+Epoch: 350, Loss: 0.5144, Accuracy: 0.7667
+Epoch: 351, Loss: 0.5134, Accuracy: 0.7667
+Epoch: 352, Loss: 0.5136, Accuracy: 0.7674
+Epoch: 353, Loss: 0.5140, Accuracy: 0.7671
+Epoch: 354, Loss: 0.5136, Accuracy: 0.7670
+Epoch: 355, Loss: 0.5133, Accuracy: 0.7674
+Epoch: 356, Loss: 0.5121, Accuracy: 0.7661
+Epoch: 357, Loss: 0.5132, Accuracy: 0.7674
+Epoch: 358, Loss: 0.5126, Accuracy: 0.7667
+Epoch: 359, Loss: 0.5132, Accuracy: 0.7660
+Epoch: 360, Loss: 0.5093, Accuracy: 0.7661
+Epoch: 361, Loss: 0.5105, Accuracy: 0.7667
+Epoch: 362, Loss: 0.5101, Accuracy: 0.7654
+Epoch: 363, Loss: 0.5075, Accuracy: 0.7661
+Epoch: 364, Loss: 0.5073, Accuracy: 0.7652
+Epoch: 365, Loss: 0.5043, Accuracy: 0.7649
+Epoch: 366, Loss: 0.5016, Accuracy: 0.7640
+Epoch: 367, Loss: 0.5013, Accuracy: 0.7633
+Epoch: 368, Loss: 0.4977, Accuracy: 0.7620
+Epoch: 369, Loss: 0.4930, Accuracy: 0.7596
+Epoch: 370, Loss: 0.4925, Accuracy: 0.7555
+Epoch: 371, Loss: 0.4890, Accuracy: 0.7511
+Epoch: 372, Loss: 0.4831, Accuracy: 0.7507
+Epoch: 373, Loss: 0.4823, Accuracy: 0.7453
+Epoch: 374, Loss: 0.4750, Accuracy: 0.7403
+Epoch: 375, Loss: 0.4730, Accuracy: 0.7349
+Epoch: 376, Loss: 0.4707, Accuracy: 0.7104
+Epoch: 377, Loss: 0.4779, Accuracy: 0.7410
+Epoch: 378, Loss: 0.5008, Accuracy: 0.6522
+Epoch: 379, Loss: 0.5568, Accuracy: 0.7614
+Epoch: 380, Loss: 0.4629, Accuracy: 0.7303
+Epoch: 381, Loss: 0.5389, Accuracy: 0.6064
+Epoch: 382, Loss: 0.4653, Accuracy: 0.7476
+Epoch: 383, Loss: 0.5065, Accuracy: 0.7643
+Epoch: 384, Loss: 0.4802, Accuracy: 0.7624
+Epoch: 385, Loss: 0.4794, Accuracy: 0.7423
+Epoch: 386, Loss: 0.4993, Accuracy: 0.7261
+Epoch: 387, Loss: 0.4833, Accuracy: 0.7399
+Epoch: 388, Loss: 0.4694, Accuracy: 0.7482
+Epoch: 389, Loss: 0.4696, Accuracy: 0.7577
+Epoch: 390, Loss: 0.4648, Accuracy: 0.7567
+Epoch: 391, Loss: 0.4479, Accuracy: 0.7316
+Epoch: 392, Loss: 0.4652, Accuracy: 0.6768
+Epoch: 393, Loss: 0.4366, Accuracy: 0.7079
+Epoch: 394, Loss: 0.4456, Accuracy: 0.7275
+Epoch: 395, Loss: 0.4327, Accuracy: 0.7127
+Epoch: 396, Loss: 0.4407, Accuracy: 0.6671
+Epoch: 397, Loss: 0.4271, Accuracy: 0.7011
+Epoch: 398, Loss: 0.4306, Accuracy: 0.7091
+Epoch: 399, Loss: 0.4252, Accuracy: 0.6788
+Epoch: 400, Loss: 0.4192, Accuracy: 0.6865
+Epoch: 401, Loss: 0.4212, Accuracy: 0.7092
+Epoch: 402, Loss: 0.4168, Accuracy: 0.7029
+Epoch: 403, Loss: 0.4164, Accuracy: 0.6860
+Epoch: 404, Loss: 0.4067, Accuracy: 0.6960
+Epoch: 405, Loss: 0.4126, Accuracy: 0.7005
+Epoch: 406, Loss: 0.4049, Accuracy: 0.6979
+Epoch: 407, Loss: 0.4054, Accuracy: 0.6831
+Epoch: 408, Loss: 0.4021, Accuracy: 0.6901
+Epoch: 409, Loss: 0.4021, Accuracy: 0.7003
+Epoch: 410, Loss: 0.3977, Accuracy: 0.6873
+Epoch: 411, Loss: 0.3970, Accuracy: 0.6915
+Epoch: 412, Loss: 0.3964, Accuracy: 0.6869
+Epoch: 413, Loss: 0.3936, Accuracy: 0.6926
+Epoch: 414, Loss: 0.3936, Accuracy: 0.7003
+Epoch: 415, Loss: 0.3907, Accuracy: 0.6794
+Epoch: 416, Loss: 0.3913, Accuracy: 0.6869
+Epoch: 417, Loss: 0.3872, Accuracy: 0.6964
+Epoch: 418, Loss: 0.3877, Accuracy: 0.6875
+Epoch: 419, Loss: 0.3888, Accuracy: 0.6764
+Epoch: 420, Loss: 0.3873, Accuracy: 0.6875
+Epoch: 421, Loss: 0.3876, Accuracy: 0.6939
+Epoch: 422, Loss: 0.3853, Accuracy: 0.6774
+Epoch: 423, Loss: 0.3857, Accuracy: 0.6772
+Epoch: 424, Loss: 0.3824, Accuracy: 0.6998
+Epoch: 425, Loss: 0.3822, Accuracy: 0.6872
+Epoch: 426, Loss: 0.3807, Accuracy: 0.6818
+Epoch: 427, Loss: 0.3816, Accuracy: 0.6894
+Epoch: 428, Loss: 0.3802, Accuracy: 0.6909
+Epoch: 429, Loss: 0.3783, Accuracy: 0.6992
+Epoch: 430, Loss: 0.3797, Accuracy: 0.6860
+Epoch: 431, Loss: 0.3774, Accuracy: 0.6841
+Epoch: 432, Loss: 0.3779, Accuracy: 0.6806
+Epoch: 433, Loss: 0.3762, Accuracy: 0.6895
+Epoch: 434, Loss: 0.3766, Accuracy: 0.6878
+Epoch: 435, Loss: 0.3785, Accuracy: 0.6803
+Epoch: 436, Loss: 0.3767, Accuracy: 0.6871
+Epoch: 437, Loss: 0.3755, Accuracy: 0.6862
+Epoch: 438, Loss: 0.3776, Accuracy: 0.6856
+Epoch: 439, Loss: 0.3769, Accuracy: 0.6860
+Epoch: 440, Loss: 0.3751, Accuracy: 0.6791
+Epoch: 441, Loss: 0.3761, Accuracy: 0.6837
+Epoch: 442, Loss: 0.3752, Accuracy: 0.6822
+Epoch: 443, Loss: 0.3756, Accuracy: 0.6928
+Epoch: 444, Loss: 0.3765, Accuracy: 0.6884
+Epoch: 445, Loss: 0.3747, Accuracy: 0.6818
+Epoch: 446, Loss: 0.3743, Accuracy: 0.6906
+Epoch: 447, Loss: 0.3766, Accuracy: 0.6893
+Epoch: 448, Loss: 0.3737, Accuracy: 0.6920
+Epoch: 449, Loss: 0.3744, Accuracy: 0.6854
+Epoch: 450, Loss: 0.3760, Accuracy: 0.6819
+Epoch: 451, Loss: 0.3751, Accuracy: 0.6828
+Epoch: 452, Loss: 0.3748, Accuracy: 0.6869
+Epoch: 453, Loss: 0.3759, Accuracy: 0.6840
+Epoch: 454, Loss: 0.3749, Accuracy: 0.6813
+Epoch: 455, Loss: 0.3754, Accuracy: 0.6843
+Epoch: 456, Loss: 0.3762, Accuracy: 0.6846
+Epoch: 457, Loss: 0.3747, Accuracy: 0.6831
+Epoch: 458, Loss: 0.3737, Accuracy: 0.6832
+Epoch: 459, Loss: 0.3753, Accuracy: 0.6865
+Epoch: 460, Loss: 0.3749, Accuracy: 0.6818
+Epoch: 461, Loss: 0.3731, Accuracy: 0.6888
+Epoch: 462, Loss: 0.3744, Accuracy: 0.6898
+Epoch: 463, Loss: 0.3729, Accuracy: 0.6840
+Epoch: 464, Loss: 0.3753, Accuracy: 0.6860
+Epoch: 465, Loss: 0.3743, Accuracy: 0.6849
+Epoch: 466, Loss: 0.3740, Accuracy: 0.6825
+Epoch: 467, Loss: 0.3751, Accuracy: 0.6813
+Epoch: 468, Loss: 0.3747, Accuracy: 0.6938
+Epoch: 469, Loss: 0.3723, Accuracy: 0.6897
+Epoch: 470, Loss: 0.3734, Accuracy: 0.6866
+Epoch: 471, Loss: 0.3734, Accuracy: 0.6744
+Epoch: 472, Loss: 0.3721, Accuracy: 0.6869
+Epoch: 473, Loss: 0.3763, Accuracy: 0.6991
+Epoch: 474, Loss: 0.3727, Accuracy: 0.6868
+Epoch: 475, Loss: 0.3738, Accuracy: 0.6821
+Epoch: 476, Loss: 0.3735, Accuracy: 0.6756
+Epoch: 477, Loss: 0.3731, Accuracy: 0.6945
+Epoch: 478, Loss: 0.3757, Accuracy: 0.6854
+Epoch: 479, Loss: 0.3721, Accuracy: 0.6793
+Epoch: 480, Loss: 0.3762, Accuracy: 0.6781
+Epoch: 481, Loss: 0.3751, Accuracy: 0.7013
+Epoch: 482, Loss: 0.3778, Accuracy: 0.6649
+Epoch: 483, Loss: 0.3742, Accuracy: 0.6961
+Epoch: 484, Loss: 0.3718, Accuracy: 0.6967
+Epoch: 485, Loss: 0.3826, Accuracy: 0.6549
+Epoch: 486, Loss: 0.3793, Accuracy: 0.7117
+Epoch: 487, Loss: 0.3724, Accuracy: 0.6891
+Epoch: 488, Loss: 0.3764, Accuracy: 0.6712
+Epoch: 489, Loss: 0.3835, Accuracy: 0.7183
+Epoch: 490, Loss: 0.3889, Accuracy: 0.6470
+Epoch: 491, Loss: 0.3788, Accuracy: 0.7069
+Epoch: 492, Loss: 0.3717, Accuracy: 0.6862
+Epoch: 493, Loss: 0.3747, Accuracy: 0.6720
+Epoch: 494, Loss: 0.3738, Accuracy: 0.6975
+Epoch: 495, Loss: 0.3750, Accuracy: 0.6810
+Epoch: 496, Loss: 0.3736, Accuracy: 0.6964
+Epoch: 497, Loss: 0.3709, Accuracy: 0.6862
+Epoch: 498, Loss: 0.3716, Accuracy: 0.6843
+Epoch: 499, Loss: 0.3720, Accuracy: 0.6989
+Epoch: 500, Loss: 0.3799, Accuracy: 0.6536
+Epoch: 501, Loss: 0.3816, Accuracy: 0.7114
+Epoch: 502, Loss: 0.3806, Accuracy: 0.6612
+Epoch: 503, Loss: 0.3790, Accuracy: 0.6956
+Epoch: 504, Loss: 0.3704, Accuracy: 0.6944
+Epoch: 505, Loss: 0.3761, Accuracy: 0.6759
+Epoch: 506, Loss: 0.3727, Accuracy: 0.7039
+Epoch: 507, Loss: 0.3675, Accuracy: 0.6850
+Epoch: 508, Loss: 0.3752, Accuracy: 0.6678
+Epoch: 509, Loss: 0.3779, Accuracy: 0.7151
+Epoch: 510, Loss: 0.3797, Accuracy: 0.6552
+Epoch: 511, Loss: 0.3694, Accuracy: 0.6973
+Epoch: 512, Loss: 0.3770, Accuracy: 0.7045
+Epoch: 513, Loss: 0.3695, Accuracy: 0.6740
+Epoch: 514, Loss: 0.3698, Accuracy: 0.6824
+Epoch: 515, Loss: 0.3757, Accuracy: 0.7114
+Epoch: 516, Loss: 0.3716, Accuracy: 0.6671
+Epoch: 517, Loss: 0.3696, Accuracy: 0.6736
+Epoch: 518, Loss: 0.3718, Accuracy: 0.7104
+Epoch: 519, Loss: 0.3716, Accuracy: 0.6884
+Epoch: 520, Loss: 0.3684, Accuracy: 0.6662
+Epoch: 521, Loss: 0.3667, Accuracy: 0.6932
+Epoch: 522, Loss: 0.3684, Accuracy: 0.6961
+Epoch: 523, Loss: 0.3644, Accuracy: 0.6876
+Epoch: 524, Loss: 0.3659, Accuracy: 0.6764
+Epoch: 525, Loss: 0.3636, Accuracy: 0.6869
+Epoch: 526, Loss: 0.3648, Accuracy: 0.6890
+Epoch: 527, Loss: 0.3639, Accuracy: 0.6895
+Epoch: 528, Loss: 0.3635, Accuracy: 0.6843
+Epoch: 529, Loss: 0.3644, Accuracy: 0.6739
+Epoch: 530, Loss: 0.3620, Accuracy: 0.6742
+New best training loss: 0.3620, Model saved: run/epoch_530_Loss_0.3620.pt
+Epoch: 531, Loss: 0.3638, Accuracy: 0.6903
+Epoch: 532, Loss: 0.3644, Accuracy: 0.6961
+Epoch: 533, Loss: 0.3618, Accuracy: 0.6906
+New best training loss: 0.3618, Model saved: run/epoch_533_Loss_0.3618.pt
+Epoch: 534, Loss: 0.3629, Accuracy: 0.6762
+Epoch: 535, Loss: 0.3627, Accuracy: 0.6772
+Epoch: 536, Loss: 0.3611, Accuracy: 0.6873
+New best training loss: 0.3611, Model saved: run/epoch_536_Loss_0.3611.pt
+Epoch: 537, Loss: 0.3616, Accuracy: 0.6956
+Epoch: 538, Loss: 0.3619, Accuracy: 0.6953
+Epoch: 539, Loss: 0.3604, Accuracy: 0.6887
+New best training loss: 0.3604, Model saved: run/epoch_539_Loss_0.3604.pt
+Epoch: 540, Loss: 0.3606, Accuracy: 0.6868
+Epoch: 541, Loss: 0.3603, Accuracy: 0.6865
+New best training loss: 0.3603, Model saved: run/epoch_541_Loss_0.3603.pt
+Epoch: 542, Loss: 0.3618, Accuracy: 0.6827
+Epoch: 543, Loss: 0.3608, Accuracy: 0.6810
+Epoch: 544, Loss: 0.3630, Accuracy: 0.6850
+Epoch: 545, Loss: 0.3599, Accuracy: 0.6846
+New best training loss: 0.3599, Model saved: run/epoch_545_Loss_0.3599.pt
+Epoch: 546, Loss: 0.3608, Accuracy: 0.6822
+Epoch: 547, Loss: 0.3615, Accuracy: 0.6851
+Epoch: 548, Loss: 0.3601, Accuracy: 0.6856
+Epoch: 549, Loss: 0.3596, Accuracy: 0.6865
+New best training loss: 0.3596, Model saved: run/epoch_549_Loss_0.3596.pt
+Epoch: 550, Loss: 0.3604, Accuracy: 0.6907
+Epoch: 551, Loss: 0.3601, Accuracy: 0.6888
+Epoch: 552, Loss: 0.3616, Accuracy: 0.6865
+Epoch: 553, Loss: 0.3609, Accuracy: 0.6876
+Epoch: 554, Loss: 0.3605, Accuracy: 0.6865
+Epoch: 555, Loss: 0.3596, Accuracy: 0.6847
+Epoch: 556, Loss: 0.3607, Accuracy: 0.6843
+Epoch: 557, Loss: 0.3606, Accuracy: 0.6871
+Epoch: 558, Loss: 0.3590, Accuracy: 0.6882
+New best training loss: 0.3590, Model saved: run/epoch_558_Loss_0.3590.pt
+Epoch: 559, Loss: 0.3605, Accuracy: 0.6822
+Epoch: 560, Loss: 0.3601, Accuracy: 0.6862
+Epoch: 561, Loss: 0.3605, Accuracy: 0.6805
+Epoch: 562, Loss: 0.3612, Accuracy: 0.6862
+Epoch: 563, Loss: 0.3600, Accuracy: 0.6824
+Epoch: 564, Loss: 0.3605, Accuracy: 0.6869
+Epoch: 565, Loss: 0.3591, Accuracy: 0.6926
+Epoch: 566, Loss: 0.3595, Accuracy: 0.6901
+Epoch: 567, Loss: 0.3610, Accuracy: 0.6854
+Epoch: 568, Loss: 0.3601, Accuracy: 0.6829
+Epoch: 569, Loss: 0.3601, Accuracy: 0.6865
+Epoch: 570, Loss: 0.3598, Accuracy: 0.6869
+Epoch: 571, Loss: 0.3603, Accuracy: 0.6850
+Epoch: 572, Loss: 0.3599, Accuracy: 0.6885
+Epoch: 573, Loss: 0.3603, Accuracy: 0.6825
+Epoch: 574, Loss: 0.3601, Accuracy: 0.6869
+Epoch: 575, Loss: 0.3591, Accuracy: 0.6835
+Epoch: 576, Loss: 0.3595, Accuracy: 0.6851
+Epoch: 577, Loss: 0.3597, Accuracy: 0.6863
+Epoch: 578, Loss: 0.3589, Accuracy: 0.6887
+New best training loss: 0.3589, Model saved: run/epoch_578_Loss_0.3589.pt
+Epoch: 579, Loss: 0.3591, Accuracy: 0.6822
+Epoch: 580, Loss: 0.3609, Accuracy: 0.6827
+Epoch: 581, Loss: 0.3597, Accuracy: 0.6900
+Epoch: 582, Loss: 0.3605, Accuracy: 0.6878
+Epoch: 583, Loss: 0.3602, Accuracy: 0.6829
+Epoch: 584, Loss: 0.3612, Accuracy: 0.6909
+Epoch: 585, Loss: 0.3602, Accuracy: 0.6862
+Epoch: 586, Loss: 0.3590, Accuracy: 0.6824
+Epoch: 587, Loss: 0.3610, Accuracy: 0.6835
+Epoch: 588, Loss: 0.3618, Accuracy: 0.6978
+Epoch: 589, Loss: 0.3665, Accuracy: 0.6552
+Epoch: 590, Loss: 0.3751, Accuracy: 0.7193
+Epoch: 591, Loss: 0.3668, Accuracy: 0.6571
+Epoch: 592, Loss: 0.3607, Accuracy: 0.6931
+Epoch: 593, Loss: 0.3633, Accuracy: 0.7099
+Epoch: 594, Loss: 0.3741, Accuracy: 0.6478
+Epoch: 595, Loss: 0.3736, Accuracy: 0.7190
+Epoch: 596, Loss: 0.3621, Accuracy: 0.6734
+Epoch: 597, Loss: 0.3680, Accuracy: 0.6624
+Epoch: 598, Loss: 0.3794, Accuracy: 0.7209
+Epoch: 599, Loss: 0.3793, Accuracy: 0.6482
+Epoch: 600, Loss: 0.3634, Accuracy: 0.6825
+re-sampleing train data...
+Epoch: 601, Loss: 0.6947, Accuracy: 0.7291
+Epoch: 602, Loss: 0.5507, Accuracy: 0.7693
+Epoch: 603, Loss: 0.5186, Accuracy: 0.7855
+Epoch: 604, Loss: 0.5146, Accuracy: 0.7864
+Epoch: 605, Loss: 0.5155, Accuracy: 0.7867
+Epoch: 606, Loss: 0.5152, Accuracy: 0.7869
+Epoch: 607, Loss: 0.5154, Accuracy: 0.7869
